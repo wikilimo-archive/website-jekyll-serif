@@ -9,5 +9,3 @@ promoted: true
 weight: 1
 layout: team
 ---
-
-Software Developer & Bioinformatician at Dana-Farber Cancer Institute. Previously at NASA Biospheric Sciences working on data science applications for Weather Forecasting & Climate Change modeling.
